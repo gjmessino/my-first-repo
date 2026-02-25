@@ -1,2 +1,1 @@
-added some text
-added some more text
+deleted some text
